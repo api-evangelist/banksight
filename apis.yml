@@ -53,7 +53,7 @@ modified: '2026-07-18'
 tags:
 - Company
 - Banking
-- Financial-Services
+- Financial Services
 - CRM
 - Customer Engagement
 - Digital Banking
@@ -68,6 +68,7 @@ tags_raw:
 - Digital Banking
 - FinTech
 - Cloud
+- Financial-Services
 apis: []
 common:
 - type: DomainSecurity
