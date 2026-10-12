@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/banksight/integrations
+- https://n8n.io/integrations/banksight/
+- https://composio.dev/toolkits/banksight
+- https://monid.ai/tools/banksight
+checked:
+- https://composio.dev/toolkits/banksight
+- https://monid.ai/tools/banksight
+- https://n8n.io/integrations/banksight/
+- https://zapier.com/apps/banksight/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
